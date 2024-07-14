@@ -35,6 +35,7 @@ def detail(request, task_id):
     }
     return render(request, 'todo/detail.html', context)
 
+
 def delete(request, task_id):
     try:
         task = Task.objects.get(pk=task_id)
