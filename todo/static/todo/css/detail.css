@@ -1,0 +1,53 @@
+body,
+h1,
+ul,
+li,
+div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin-bottom: 20px;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px;
+  color: #666;
+}
+
+.status-completed {
+  color: green;
+}
+
+.status-not-completed {
+  color: red;
+}
+
+a {
+  color: #4caf50;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.links {
+  margin-top: 20px;
+}
