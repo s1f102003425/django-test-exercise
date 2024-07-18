@@ -1,1 +1,1 @@
-Render でデプロイされたWebサイトの[URL](https://piropiro-test-web.onrender.com)https://piropiro-test-web.onrender.com
+Render でデプロイされたWebサイトのURL https://piropiro-test-web.onrender.com
